@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_maps_api_key">AIzaSyAVmFazTuIKXKrGRVwvpQMrLNZnUA1P6W4</string>
+    <string name="app_name">Map Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+</resources>
